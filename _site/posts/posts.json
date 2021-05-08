@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to DATAHOLIC - Love Data",
+    "description": "Welcome to our new blog, DATAHOLIC - Love Data. We hope you enjoy reading what we have to say!",
+    "author": [
+      {
+        "name": "Choonghyun Ryu",
+        "url": {}
+      }
+    ],
+    "date": "2021-05-08",
+    "categories": [],
+    "contents": "\nFirst post.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-05-08T15:30:55+09:00",
+    "input_file": {}
+  }
+]

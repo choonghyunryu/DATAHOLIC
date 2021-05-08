@@ -1,0 +1,24 @@
+---
+title: "About dataholic"
+description: |
+  Stories about R and data
+creative_commons: CC BY  
+---
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Data is breathing because it has life. And it is very sensitive and capricious. This is because it must be carefully trimmed and watered to produce the fruit of Insight. That's why I'm standing there today.
+
+> **Dataholic** : The blog was named Dataholic. I am immersed in data and I want to spend a long time with data.
+
+* R packages
+  + dlookr, "Tools for Data Diagnosis, Exploration, Transformation"
+    + [CRAN](https://cran.r-project.org/web/packages/dlookr/index.html)
+    + [Github](https://github.com/choonghyunryu/dlookr)
+  + alookr, "Tools for Binary Classification Modeling"
+    + [CRAN](https://cran.r-project.org/web/packages/alookr/index.html)
+    + [Github](https://github.com/choonghyunryu/alookr)
+
+* email : choonghyun.ryu@gmail.com        

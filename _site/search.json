@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About dataholic",
+      "description": "Stories about R and data\n",
+      "author": [],
+      "contents": "\nData is breathing because it has life. And it is very sensitive and capricious. This is because it must be carefully trimmed and watered to produce the fruit of Insight. That’s why I’m standing there today.\n\nDataholic : The blog was named Dataholic. I am immersed in data and I want to spend a long time with data.\n\nR packages\ndlookr, “Tools for Data Diagnosis, Exploration, Transformation”\nCRAN\nGithub\n\nalookr, “Tools for Binary Classification Modeling”\nCRAN\nGithub\n\n\nemail : choonghyun.ryu@gmail.com\n\n\n\n",
+      "last_modified": "2021-05-08T15:31:35+09:00"
+    },
+    {
+      "path": "index.html",
+      "title": "DATAHOLIC - Love Data",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-05-08T15:32:04+09:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
