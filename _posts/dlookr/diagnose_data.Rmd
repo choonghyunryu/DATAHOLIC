@@ -74,7 +74,7 @@ Types | Descriptions | Functions | Support DBI
 reporting the information of data diagnosis into pdf file | report the information for diagnosing the quality of the data. | `diagnose_report()` | x
 reporting the information of data diagnosis into html file | report the information for diagnosing the quality of the data. | `diagnose_report()` | x
 
-## Exercise data: nycflights13
+## Exercise data: nycflights13::flights
 
 To illustrate basic use of the dlookr package, use the `flights` from the `nycflights13` package. The `flights` data frame is data about departure and arrival on all flights departing from NYC in 2013.
 
