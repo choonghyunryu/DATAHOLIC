@@ -564,18 +564,18 @@ Data transformation reports are automated reports to assist in the data transfor
 #### Contents of pdf file
 * The cover of the report is shown in the following figure.
 
-```{r trans_title_pdf, echo=FALSE, out.width='60%'}
+```{r trans_title_pdf, echo=FALSE, out.width='75%'}
 knitr::include_graphics('img/trans_title_pdf.png')
 ```
 
 * The report's agenda is shown in the following figure.
 
-```{r trans_agenda_pdf, echo=FALSE, out.width='60%'}
+```{r trans_agenda_pdf, echo=FALSE, out.width='75%'}
 knitr::include_graphics('img/trans_agenda_pdf.png')
 ```
 
 * Much of the information is displayed in tables and visualization results in reports. An example is shown in the following figure.
 
-```{r trans_content_pdf, echo=FALSE, out.width='60%'}
+```{r trans_content_pdf, echo=FALSE, out.width='75%'}
 knitr::include_graphics('img/trans_content_pdf.png')
 ```
